@@ -33,6 +33,7 @@ const useStyles = makeStyles((theme) => {
       alignItems: "center",
       position: "sticky",
       top: "0",
+      zIndex: "66",
       justifyContent: "space-between",
       color: "white",
       height: 48,

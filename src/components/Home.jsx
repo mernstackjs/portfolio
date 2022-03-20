@@ -79,27 +79,26 @@ function Home() {
         <Box
           sx={{
             position: "absolute",
-            top: "30px",
+            top: "10px",
             left: "50px",
           }}
         >
           <Typography
             variant="caption"
-            sx={{ color: "black", fontSize: "14px" }}
+            sx={{ color: "black", fontSize: "10px" }}
             gutterBottom
           >
             Hej ! Ahmed A.rizaak
           </Typography>
           <Typography
-            sx={{ color: "#6A14EC", fontSize: "25px", width: "300px" }}
+            sx={{ color: "#6A14EC", fontSize: "16px", width: "200px" }}
           >
             I am A Creative UI/UX Designer From Sweden
           </Typography>
 
-          <Typography sx={{ color: "balck", fontSize: "10px", width: "270px" }}>
+          <Typography sx={{ color: "balck", fontSize: "13px", width: "230px" }}>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Praesentium sequi deserunt qui laboriosam fuga modi sapiente quaerat
-            aut amet. Vero?
+            Praesentium
           </Typography>
 
           <CardActions
