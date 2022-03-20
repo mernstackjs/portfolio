@@ -85,7 +85,7 @@ function Navbar() {
       >
         <div>
           <ListItemText>
-            <Typography sx={{ fontSize: "30px" }}>BrandName</Typography>
+            <Typography sx={{ fontSize: "30px" }}>A.Arizaak</Typography>
           </ListItemText>
         </div>
         <MenuList sx={{ display: "flex" }}>
