@@ -36,6 +36,9 @@ const useStyles = makeStyles((theme) => {
       height: 48,
       padding: "4px 30px",
       width: "100%",
+      [theme.breakpoints.down("sm")]: {
+        padding: "0",
+      },
     },
     linkItem: {
       color: "white",
