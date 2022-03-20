@@ -31,6 +31,8 @@ const useStyles = makeStyles((theme) => {
       backgroundColor: "gray",
       display: "flex",
       alignItems: "center",
+      position: "sticky",
+      top: "0",
       justifyContent: "space-between",
       color: "white",
       height: 48,
